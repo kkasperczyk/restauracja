@@ -61,7 +61,7 @@
 
 .menu__position::after {
   content: "";
-  border-top: 1.9px dotted;
+  border-top: 2px dotted;
   flex-grow: 1;
   order: 2;
   margin: 0 5px;
